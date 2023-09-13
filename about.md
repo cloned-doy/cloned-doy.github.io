@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My ancestors keep telling me about their secret recipe for eternal life: just keep writing. at all costs. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Then here I am, barely keeping my [sanity][sanity] alive and managing to wander in my own [multidimentional madness][universe].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[sanity]: https://github.com/cloned-doy
+[universe]:https://twitter.com/dtkdym

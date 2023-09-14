@@ -1,20 +1,71 @@
-title: Horseman
-tagline: Jump over the galaxies
-author:
-  name: Doy
-  email: cloned-doy@fakedomain.com
+# Site
+name: Horseman
+description: This is a cave paintings site depicting Doy's modern life solitude.
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+# baseurl: '/mundana-theme-jekyll'
+disqus: 'demowebsite'
+email: 'cloned-doy@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  This is a cave paintings site depicting Doy's modern life solitude.
+include: ["_pages"]
+permalink: /:title/
 
-# Build settings
-
-theme: minima
-
-plugins:
-  # - jekyll-feed
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-seo-tag
+  
+authors:
+    doy:
+      name:           Doy
+      site:           https://www.notdoyswebsite.lol
+      avatar:         /assets/images/avatar1.jpg
+      bio: >
+                      My ancestors keep telling me about their secret recipe for eternal life: just keep writing. At all costs.
+                      
+                      Then here I am, barely keeping my [sanity] alive and managing to wander in my own [multidimensional madness].
+      links:
+        sanity:       https://github.com/cloned-doy
+        multidimensional madness:     https://twitter.com/dtkdym
+        email:        cloned-doy@gmail.com
+        twitter:      https://twitter.com/dtkdym
 
-show_excerpts: true
+    nobody:
+      name:           Nobody
+      site:           https://www.nothing.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Fictional figure, love to take a walk on the edge of horizon. Oh, here is more: love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/elonmusk
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: doy
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

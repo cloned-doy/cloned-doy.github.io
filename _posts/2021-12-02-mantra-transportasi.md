@@ -2,7 +2,7 @@
 title: Mantra Transportasi
 date: Thu, 02 Dec 2021 10:46:00 +0000
 author: doy
-tags: [bisnis, buruh, effort, privilege, Tanpa kategori, transportasi]
+categories: [effort, privilege, transportasi]
 image: assets/images/pexels-photo-1427107.jpg
 ---
 

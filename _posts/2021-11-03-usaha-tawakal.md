@@ -2,7 +2,7 @@
 title: Usaha Tawakal
 date: Wed, 03 Nov 2021 12:00:00 +0000
 author: doy
-tags: [Allah, effort, ikhtiar, tawakal]
+categories: [random, effort, tawakal]
 image: assets/images/pexels-photo-1100946.jpeg
 ---
 

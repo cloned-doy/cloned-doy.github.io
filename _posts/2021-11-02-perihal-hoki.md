@@ -2,7 +2,7 @@
 title: Perihal Hoki
 date: Tue, 02 Nov 2021 12:00:00 +0000
 author: doy
-tags: [effort, hoki, privilege, statistik]
+categories : [effort, privilege, statistik]
 image: assets/images/pexels-photo-1100946.jpeg
 ---
 

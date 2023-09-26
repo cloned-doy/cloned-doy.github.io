@@ -2,7 +2,7 @@
 title: Chinese Adventure
 date: Wed, 16 Nov 2022 05:25:37 +0000
 author: doy
-tags: [Tanpa kategori]
+categories: [random]
 image: assets/images/pexels-photo-14195029.jpeg
 ---
 

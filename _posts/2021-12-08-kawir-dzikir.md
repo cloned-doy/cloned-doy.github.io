@@ -2,7 +2,7 @@
 title: Kawir Dzikir
 date: Wed, 08 Dec 2021 09:57:00 +0000
 author: doy
-tags: [buruh, effort, ikhtiar, privilege, Tanpa kategori, transportasi]
+categories: [effort, privilege, transportasi]
 image: assets/images/pexels-photo-7148468.jpg
 ---
 

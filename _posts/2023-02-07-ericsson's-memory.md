@@ -2,7 +2,7 @@
 title: Ericsson's Memory
 date: Tue, 07 Feb 2023 10:39:40 +0000
 author: doy
-tags: [learning, research, brain, memory]
+categories: [learning, research, brain, memory]
 image: assets/images/pexels-photo-13775522.jpeg
 ---
 

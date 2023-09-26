@@ -2,7 +2,7 @@
 title: Tesla Cina
 date: Sun, 07 Nov 2021 12:00:00 +0000
 author: doy
-tags: [manufacturing, Sandy Munro, Tanpa kategori, Tesla]
+categories: [Manufacturing, Sandy Munro, Tesla]
 image: assets/images/image-1.jpg
 ---
 

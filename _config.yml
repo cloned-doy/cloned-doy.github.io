@@ -4,7 +4,7 @@ description: This is a cave paintings site depicting Doy's modern life solitude.
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 # baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
+# disqus: 'demowebsite's
 email: 'cloned-doy@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -64,6 +64,9 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
+
+# Set a default featured image size
+default_featured_image_size: "800x400"
 
 
 

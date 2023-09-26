@@ -2,8 +2,9 @@
 title: Mencatat Laktat
 date: Sat, 06 Nov 2021 12:00:00 +0000
 author: doy
-tags: [effort, goals, paragmatis, Tanpa kategori]
+categories: [effort, goals]
 image: assets/images/runners-male-sport-run-54326.jpg
+
 ---
 
 otot akan merasa capek setelah digunakan dalam kurun tertentu. kurun akrifitas mekanis tertentu. of course otot menjadi rusak. dan disitulah ia dapat chance buat cure and being strongger setelah ada di fase capek. thanks to laktat. ia semacam alarm yang berguna. seberapa jauh endurance treeshold yg kita miliki.

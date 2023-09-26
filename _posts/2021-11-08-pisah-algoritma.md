@@ -2,7 +2,7 @@
 title: Pisah Algoritma
 date: Mon, 08 Nov 2021 12:00:00 +0000
 author: doy
-tags: [AI, algoritma, apple music, ios, musik, platform, spotify, Tanpa kategori]
+categories: [AI, musik, platform]
 image: assets/images/pexels-photo-5417836.jpg
 ---
 

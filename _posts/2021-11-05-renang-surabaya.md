@@ -2,7 +2,7 @@
 title: Renang Surabaya
 date: Fri, 05 Nov 2021 12:00:00 +0000
 author: doy
-tags: [challenge, effort, Surabaya, Tanpa kategori]
+categories: [challenge, Surabaya]
 image: assets/images/pexels-photo-5238645.jpg
 ---
 

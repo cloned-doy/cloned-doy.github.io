@@ -2,7 +2,7 @@
 title: Nulis Bandara
 date: Thu, 04 Nov 2021 12:00:00 +0000
 author: doy
-tags: [bandara, kebiasaan, manajemen, menulis, Tanpa kategori]
+categories: [bandara, kebiasaan,menulis]
 image: assets/images/pexels-photo-2434269.jpg
 featured: true
 ---

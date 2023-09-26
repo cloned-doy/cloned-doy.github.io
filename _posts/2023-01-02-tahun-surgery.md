@@ -2,7 +2,7 @@
 title: Tahun Surgery
 date: Mon, 02 Jan 2023 06:48:19 +0000
 author: doy
-tags: [film, buku, Tanpa kategori]
+categories: [film, buku]
 image: assets/images/pexels-photo-1151418.jpeg
 ---
 

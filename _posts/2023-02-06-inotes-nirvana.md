@@ -2,7 +2,7 @@
 title: iNotes Nirvana
 date: Mon, 06 Feb 2023 03:43:00 +0000
 author: doy
-tags: [apple, note taking, random]
+categories: [apple, note taking, random]
 image: assets/images/pexels-photo-1193743.jpeg
 ---
 

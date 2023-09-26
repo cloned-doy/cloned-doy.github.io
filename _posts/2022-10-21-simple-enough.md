@@ -2,9 +2,9 @@
 title: Simple Enough
 date: Fri, 21 Oct 2022 02:35:39 +0000
 author: doy
-tags: [Tanpa kategori]
+categories: [random, education]
 image: assets/images/img_1695.jpg
-featured: true
+tags: [featured]
 ---
 
 Seorang bule masuk perpus. Dia bersama anak yang sepertinya masih berusia sekitar 5.

@@ -647,6 +647,27 @@ footer {
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
 	display:none !important;
 }
+/* Aspect ratio container styles */
+.image-container {
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    /*padding-top: 56.25%;  16:9 aspect ratio */
+}
+
+
+/* 16:9 aspect ratio */
+.aspect-ratio-16-9 {
+    padding-top: 56.25%; /* (9 / 16) * 100% */
+}
+
+/* 4:3 aspect ratio */
+.aspect-ratio-4-3 {
+    padding-top: 75%; /* (3 / 4) * 100% */
+}
+
 .excerpt {
     color: rgba(0,0,0,0.59);
     margin-top:10px;

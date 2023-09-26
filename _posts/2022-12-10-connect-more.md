@@ -2,7 +2,7 @@
 title: Connect More
 date: Sat, 10 Dec 2022 06:35:17 +0000
 author: doy
-tags: [Tanpa kategori]
+categories: [random]
 image: assets/images/pexels-photo-6152103.jpeg
 ---
 

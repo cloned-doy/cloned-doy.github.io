@@ -2,7 +2,7 @@
 title: Sunan Saudagar
 date: Thu, 03 Feb 2022 10:53:12 +0000
 author: doy
-tags: [bisnis, buruh, ikhtiar, manajemen, paragmatis, statistik, Tanpa kategori, transportasi]
+categories: [bisnis, ikhtiar, paragmatis]
 image: assets/images/pexels-photo-4905199.jpg
 ---
 

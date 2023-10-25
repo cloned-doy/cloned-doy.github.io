@@ -5,25 +5,18 @@ author: doy
 categories: [Manufacturing, Sandy Munro, Tesla]
 image: assets/images/image-1.jpg
 ---
+Videonya Sandy Munro sungguh menarik, ia adalah seorang ahli manufaktur mobil yang sering mengulas produksi Tesla dalam berbagai video di kanal YouTube-nya. Kali ini, ia memberikan ulasan mengenai bagaimana Tesla mengoptimalkan biaya dengan fokus pada spare part.
 
-menarik sekali videonya sandy munro. si ahli manufaktur mobil. yang di banyak video youtubenya suka ngereview manufaktur tesla. kali ini ia ngereview cara tesla optimalkan sparepart dari sisi biaya.
+Saya teringat pada seorang teman saya asal China yang pernah memberi saya saran yang esensinya mirip.
 
-saya teringat pada seorang cina. beliau pernah ngasih tau saya perihal topik yang esensinya kurang lebih sama.
+Ini berkaitan dengan 'kekuatan hal-hal kecil' atau 'jumlah kecil hal-hal'. Intinya, teman saya dari China mengatakan bahwa saat berbelanja, kita tidak perlu terlalu ambisius untuk mencari diskon besar-besaran, sebab penghematan 5% pun memiliki arti. Meskipun mungkin dalam satu atau dua hari, penghematan tersebut tidak terlalu terasa, namun jika diakumulasikan dalam satu atau dua tahun, pasti akan terasa signifikan.
 
-ini tentang the power of small things. small amount of things.
+Saat itu, teman saya sedang mengeluhkan besarnya biaya servis mobilnya. Dia memperhatikan semua biaya kecil yang menurutnya tidak terlalu berarti. Kemudian, ia mulai menghitung jumlah uang yang bisa dia hemat jika ia berhasil mengurangi biaya servis sebesar 5%. Ketika total uang tersebut diperhitungkan dalam skala tahun, ternyata cukup untuk membayar uang muka mobil baru.
 
-kurang lebih cina bilang: ga usah muluk2 tiap belanja ngotot dapat penghematan 20%. 5% pun tidak apa-apa. akumulasi sehari-dua hari mungkin tiada arti. tapi akumulasi dalam setahun-dua tahun pasti terasa sekali.
+Belum lagi, jika ia berhasil meningkatkan penghematan menjadi 10%, ia bahkan bisa membeli mobil baru secara tunai.
 
-saat itu ia lagi ngeluh. tentang bengkaknya biaya servis mobil.
+Hal yang sama juga dilakukan oleh Tesla. Mereka secara rutin merevisi desain internal dan komponen-komponen tambahan pada mobil mereka. Dengan kata lain, mobil Tesla yang Anda beli sekarang mungkin memiliki perbedaan dalam hal perlengkapan dibandingkan dengan mobil yang sama yang dibeli beberapa bulan kemudian. Namun, perubahan tersebut tidak mengurangi performa mobil, melainkan mengurangi jumlah komponen dan aksesori, yang akhirnya menghemat biaya produksi mobil.
 
-ia menyorot biaya-biaya yang menurut dia kecil. lalu ia hitung besaran duit jika misal ada penghematan 5%. saat total duitnya dijadiin skala tahun, ternyata sangat mampu buat sekadar dp mobil baru.
+Tesla sangat serius dalam hal ini. Dalam video yang diulas oleh Sandy Munro, ia menghitung bahwa dalam waktu kurang dari 3 bulan, Tesla membuat lebih dari 13 perubahan dalam desain dan spare part-nya. Besarnya penghematan yang diperoleh sangat besar. Bahkan hanya dengan mengurangi satu jenis komponen seperti baut saja, nilainya setara dengan harga satu unit mobil Tesla baru.
 
-belum lagi kalau penghematannya dinaikin 10% aja. bisa cukup beli cash satu unit mobil baru.
-
-hal sama juga dilakukan tesla. mereka rutin merevisi desain jeroan dan aksesoris bawaan mobil. sebuah mobil tesla yang anda beli sekarang, kemungkinan besar akan berbeda isinya jika anda membeli produk yang sama di bulan-bulan berikutnya. tanpa mengurangi performa, jumlah sparepart dan aksesorisnya lebih sedikit. biaya bikin mobil lebih irit.
-
-tesla beneran serius tentang hal tsb. di video itu sandy munro hitung, kurang dari 3 bulan bisa ada 13 macam perubahan pada desain dan sparepart.
-
-besaran penghematannya jangan ditanya. pengurangan satu jenis sparepart semacam baut saja nilainya setara sebuah unit baru tesla.
-
-recap saya: tak tau om elon musk belajarnya dari mana. pun saat si cina cerita saya lupa bertanya: madzhab ajaran tersebut yang ngamalin pertama siapa. 很有意思.
+Secara ringkas, tidak ada yang tahu apakah Elon Musk belajar dari mana. Pada saat teman saya dari China memberikan saran tersebut, saya lupa untuk menanyakan darimana ia mendapatkan ajaran tersebut. Namun, konsepnya sangat menarik dan berharga untuk dipertimbangkan.

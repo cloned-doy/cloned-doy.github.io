@@ -7,64 +7,51 @@ image: assets/images/runners-male-sport-run-54326.jpg
 
 ---
 
-otot akan merasa capek setelah digunakan dalam kurun tertentu. kurun akrifitas mekanis tertentu. of course otot menjadi rusak. dan disitulah ia dapat chance buat cure and being strongger setelah ada di fase capek. thanks to laktat. ia semacam alarm yang berguna. seberapa jauh endurance treeshold yg kita miliki.
+Otot akan merasa lelah setelah digunakan dalam periode tertentu, terutama dalam aktivitas mekanis tertentu. Tentu saja, otot akan mengalami kerusakan, dan di sinilah ia mendapatkan kesempatan untuk pulih dan menjadi lebih kuat, berkat laktat. Laktat dapat dianggap sebagai semacam alarm yang berguna, mengukur sejauh mana ambang daya tahan kita.
 
-###
+### 
 
-yang menjadi pertimbaganku akhir ini: dengan goals dan mimpiku yang demikian mahal, baik dari segi harga uang dan waktu, does my energy and my time still sufficient?
+Hal yang sedang menjadi pertimbangan saya akhir-akhir ini adalah apakah energi dan waktu yang saya miliki masih cukup untuk mencapai tujuan dan impian saya, yang pada dasarnya memiliki nilai tinggi, baik dalam hal uang maupun waktu. Saya tidak yakin sejauh mana tujuan-tujuan ini dapat diwujudkan dengan sumber daya yang saya miliki. Saya memiliki banyak impian tentang masa depan, dan pikiran saya mengatakan bahwa saya bisa mewujudkannya. Namun, jika melihat riwayat saya sejauh ini, yang masih dipenuhi dengan catatan merah, tujuan pribadi saya selalu mandek pada fase mandek deg, bukan sampai pada titik tuntas. Ini bukan berarti saya kehilangan semangat, tapi lebih seperti mencapai titik di mana semuanya berhenti.
 
-aku gatau seberapa dekat goals dengan resources yang aku miliki. i had so many dreams of my future. pikiranku berkata aku bisa mewujudkannya. tapi dari riwayatku so far yang masih berupa catatan, masihlah bertinta merah: apa yang menjadi goals pribadiku selalu mandeg di fase mandeg deg. ga buntu sih. cuma mandeg aja.
+Saya perlu menghitung semua sumber daya yang saya miliki dan merancang ulang aset biologis saya. Saya pikir saya harus memahami batas laktat saya.
 
-i need to calculate what kind resources all i have, lalu meng-enginering those my biological property. i think i have to figure out my batas laktat.
+Saya selalu menunda untuk mewujudkan impian-impian ini, dengan cara yang lebih lembut daripada mengatakan "gagal mengeksekusi hingga ke titik tuntasnya".
 
-aku selalu menunda pewujudannya. bahasa yang lebih halus dibanding “gagal mengeksekusi hingga ke titik tuntasnya”.
+Saya pikir saya perlu "menghitung" perasaan saya, mencatat semua kesuksesan kecil yang biasanya saya rayakan dengan ungkapan terima kasih kepada diri sendiri. Yang lebih penting, saya perlu mencatat hal-hal yang selama ini masih dianggap sebagai kegagalan yang fatal, yang menyebabkan mandek tadi.
 
-i think i need to do some of “accounting”my feeling. mencatat sukses2 kecil yang biasanya aku selebrasi dalam bentuk ‘thanks myself’.
+Saya merasa penting untuk benar-benar memahami mengapa saya masih menjalani lingkaran tertentu ini yang terasa sulit.
 
-yang lebih penting keknya aku perlu juga mencatat beberapa hal yang so far masih berstatus gagal fatal. yang gagal mandeg tadi.
+Saya merasa lelah, tetapi saya melihat cahaya di tengah semua itu, semacam momen 'aha' atau titik terang. Cahaya itu berbentuk pertanyaan: apakah saya memerlukan sebuah tim?
 
-aku rasa penting buat really know why i am still doing this kinda rat hole loop fuckn damn ass.
+Apakah saya perlu bergabung dengan tim proyek khusus?
 
-aku capek. but i see some light. kinda aha moment. my eureka moment. those light in form of question: do i need team?
+Saya telah mengalami sejumlah kejadian yang menggugah semangat saya, mengidentifikasi kekuatan dan kelemahan saya, serta menetapkan misi baru.
 
-do i need to join some special project team?
+Melihat ke belakang, saya merasa mampu berkontribusi dalam sebuah tim. Daya tahan saya untuk tidak menyerah bisa diandalkan ketika saya berada dalam tim.
 
-aku mengalami sejumlah kejadian semacam rekalibrasi singkat. my strengnt. my weakness. dan my misi.
+Perisai Diri dan ENJ, dua dari "super tim" saya sejauh ini. Entahlah, mungkin perhatian saya mudah teralihkan, tetapi bentuk kerja dalam tim memberi saya resep untuk memiliki tanggung jawab. Ini membantu saya untuk terus maju dalam progres yang saya inginkan.
 
-look behind aku pribadi merasa bisa konvert dalam team. enduranceku buat not giving up lebih biaa diandalkan saat bersama team.
+Dapat dikatakan bahwa perhatian saya bisa fokus dalam waktu tiga bulan. Bayangkan betapa sibuknya jika saya memiliki empat hingga lima minat perhatian dalam sebulan.
 
-perisai diri dan enj. two of my ‘superteam’ so far.
+- Membuat perusahaan "maker" bionic arm sumber terbuka.
+- Pengolahan limbah dengan BSF.
+- Percetakan 3D untuk keperluan medis.
+- Usaha sosial: bertujuan untuk memberikan mekanisme pendapatan dasar bagi penduduk miskin yang tak beruntung.
+- Penemuan ala Tesla sendiri.
+- Penerbitan buku bergambar.
+- Kurasi dan penjualan produk UMKM.
+- Dan lain-lain.
 
-entahlah. maybe atensiku mudah teralih. but the form of team gave me a recipe of responsibility. its make me still hold the grip on. grip of to push my self to contiue towards on the progression.
+Minat saya berubah dengan cepat dari waktu ke waktu, tetapi saya merasa mudah beradaptasi.
 
-bisa disebut atensiku sekali fokus tahan 3 bulan. bisa dibayangkan bagaimana sibuknya jika aku memiliki empat sampai lima interest atensi dalam sebulan.
+Saya merasa lelah. Berdasarkan kelemahan saya yang kecil dan obat yang dapat menyembuhkannya, berkat pengalaman masa lalu, saya belajar bahwa saya memiliki lebih banyak kekuatan dan daya tahan ketika saya berada dalam tim, terutama dalam tim yang tepat.
 
-⁃ opensource bionic arm ‘maker’ company
+Apakah saya memerlukan tim? 
 
-⁃ bsf for waste processing.
+_Ya, tentu saja._
 
-⁃ medical 3d print.
+Tapi bagaimana?
 
-⁃ social enterprise: aims to ensure basic income mechanism for underprevilege homeles resident.
+Bagaimana dan di mana saya bisa menemukannya?
 
-⁃ my own tesla-style invention.
-
-⁃ picture book publishing.
-
-⁃ kurasi and sell UMKM’s product
-
-⁃ etc etc
-
-interestku cepet berubah dari masa ke masa. tapi sebenernya i think mudah catch up.
-
-aku capek. based on my litte weakness and the medicine to cure them, thanks to my past experience, i learn i had more power and endurance when i v been in a team. in a right team.
-
-do i need team? 
-
-_yeah definitely_
-
-but how?
-
-how and where to find it? 
-
-i still had no idea.
+Saya masih belum memiliki jawaban.

@@ -6,38 +6,38 @@ categories: [effort, privilege, transportasi]
 image: assets/images/pexels-photo-1427107.jpg
 ---
 
-2 Desember 2021. hari ketiga menjadi vice driver. sebutan halus untuk seorang kernet. untuk beberapa hari kedepan, saya ditugas mengawal pengiriman barang. rute malang-semarang.
+2 Desember 2021. Hari ketiga menjadi vice driver. Sebutan halus untuk seorang kernet. Untuk beberapa hari ke depan, saya ditugaskan mengawal pengiriman barang. Rute Malang-Semarang.
 
-saya bingung. tertarik nulis tentang kesejahteraan individu supir. tapi di sisi lain juga penasaran hendak mengulik senjangnya infrastruktur transportasi sebagai pilar perekonomian.
+Saya bingung. Tertarik untuk menulis tentang kesejahteraan individu supir, tetapi di sisi lain juga penasaran hendak mengulik senjangnya infrastruktur transportasi sebagai pilar perekonomian.
 
-isu kesejahteraan individu supir lumayan menarik. (harusnya sudah banyak yang membahas). mereka tergolong kelas buruh yang paling banyak berkorban tenaga dan waktu. menukarnya dengan upah yang demikian tak menentu.
+Isu kesejahteraan individu supir lumayan menarik. (Harusnya sudah banyak yang membahas). Mereka tergolong kelas buruh yang paling banyak berkorban tenaga dan waktu. Menukarnya dengan upah yang demikian tak menentu.
 
-rumus kausalitas seolah tidak berlaku. kerja keras tak berkorelasi langsung dengan kesejahteraan.
+Rumus kausalitas seolah tidak berlaku. Kerja keras tak berkorelasi langsung dengan kesejahteraan.
 
-**supir: finansial emosional**
+**Supir: Finansial Emosional**
 
-saya belum menemukan kasus dimana para supir bernasib memiliki kesejahteraan yang benar-benar cukup. sisi finansial maupun emosional.
+Saya belum menemukan kasus di mana para supir bernasib memiliki kesejahteraan yang benar-benar cukup. Sisi finansial maupun emosional.
 
-saya pernah mendengar isu perihal sopir yang takut pulang ke rumah lantaran tak berhasil membawa uang untuk si istri. saya juga pun pernah mendengar cerita-cerita perihal supir yang aktif berhubungan dengan lawan-jenis-bukan-pasangan. upaya pemenuhan ‘kebutuhan’ kaum pejantan.
+Saya pernah mendengar isu perihal sopir yang takut pulang ke rumah lantaran tak berhasil membawa uang untuk si istri. Saya juga pun pernah mendengar cerita-cerita perihal supir yang aktif berhubungan dengan lawan-jenis-bukan-pasangan. Upaya pemenuhan ‘kebutuhan’ kaum pejantan.
 
-saya tak menemukan pembenaran apa lagi untuk menilai kedua kabar tersebut. melainkan adanya fenomena tersebut cukup menjadi penanda adanya kesenjangan sisi finansial sekaligus emosional.
+Saya tak menemukan pembenaran apa lagi untuk menilai kedua kabar tersebut. Melainkan adanya fenomena tersebut cukup menjadi penanda adanya kesenjangan sisi finansial sekaligus emosional.
 
-namun marilah menyorot isu ini dari sudut lain. menyorot isu transportasi dari sisi tatanan infrastruktur yang lebih besar: level kolosal nasional.
+Namun marilah menyorot isu ini dari sudut lain. Menyorot isu transportasi dari sisi tatanan infrastruktur yang lebih besar: Level kolosal nasional.
 
-**truk, kereta, dan kapal**
+**Truk, Kereta, dan Kapal**
 
-sepanjang jalan pantura dimana ribuan truk berlalu lalang (perkiraan semata), saya teringat sebuah tulisan tentang fungsi kapal dan kereta api di china.
+Sepanjang jalan pantura dimana ribuan truk berlalu lalang (perkiraan semata), saya teringat sebuah tulisan tentang fungsi kapal dan kereta api di China.
 
-gampangannya, lihatlah ke china jaman sekarang. mereka membangun pelabuhan dan rel kereta lintas negara —bahkan benua— untuk moda transportasi utama. truk dipakai untuk prioritas angkut dalam kota saja.
+Gampangannya, lihatlah ke China jaman sekarang. Mereka membangun pelabuhan dan rel kereta lintas negara —bahkan benua— untuk moda transportasi utama. Truk dipakai untuk prioritas angkut dalam kota saja.
 
-kenapa tidak di Indonesia? kenapa kita pada akhirnya menggunakan truk yang berbiaya lebih mahal? kenapa tidak menggunakan moda kapal atau kereta api yang semestinya akan jauh lebih terjangkau?
+Kenapa tidak di Indonesia? Kenapa kita pada akhirnya menggunakan truk yang berbiaya lebih mahal? Kenapa tidak menggunakan moda kapal atau kereta api yang semestinya akan jauh lebih terjangkau?
 
-akhirnya kita harus menerima efek konsekuensi. penggunaan truk butuh biaya lebih mahal. dari perawatan kendaraan hingga penjaminan kesejahteraan supir. yang ujung dari rantai panjang ini adalah bengkaknya biaya transportasi.
+Akhirnya kita harus menerima efek konsekuensi. Penggunaan truk butuh biaya lebih mahal. Dari perawatan kendaraan hingga penjaminan kesejahteraan supir. Yang ujung dari rantai panjang ini adalah bengkaknya biaya transportasi.
 
-pabrikan keramik di surabaya misalnya. produk yang bahannya didapat dan diproses di dalam negeri. ujung-ujungnya secara harga hampir kalah dengan produk keramik impor china. biaya transportasi yang mahal adalah penyebab salah satunya.
+Pabrikan keramik di Surabaya misalnya. Produk yang bahannya didapat dan diproses di dalam negeri. Ujung-ujungnya secara harga hampir kalah dengan produk keramik impor China. Biaya transportasi yang mahal adalah penyebab salah satu penyebabnya.
 
-juga sebuah perusahaan pabrikan nikel di sulawesi. ups, tambang nikel lebih tepatnya. mereka perusahaan asal China. terbesar di dunia. bisa mendikte harga nikel dunia akibat bisa memberikan harga terbaik di kelasnya.
+Juga sebuah perusahaan pabrikan nikel di Sulawesi. Ups, tambang nikel lebih tepatnya. Mereka perusahaan asal China. Terbesar di dunia. Bisa mendikte harga nikel dunia akibat bisa memberikan harga terbaik di kelasnya.
 
-ternyata si pendirinya punya mantra rahasia. bangunlah pabrik pengolahan langsung di dekat sumber bahannya.
+Ternyata si pendirinya punya mantra rahasia. Bangunlah pabrik pengolahan langsung di dekat sumber bahannya.
 
-pemilihan moda transportasi menentukan hidup mati laba korporasi.
+Pemilihan moda transportasi menentukan hidup mati laba korporasi.

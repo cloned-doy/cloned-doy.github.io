@@ -5,33 +5,32 @@ author: doy
 categories: [challenge, Surabaya]
 image: assets/images/pexels-photo-5238645.jpg
 ---
+Baru-baru ini, saya berhasil mencapai dua rekor baru: pertama, saya mampu renang 50 meter bolak-balik di kedalaman 4 meter. Kedua, saya melakukan perjalanan ke Surabaya dengan mengemudikan mobil sendirian tanpa memiliki surat izin mengemudi. :)
 
-baru saja tercipta dua rekor baru: rekor bisa renang 50 meter bolak balik di kedalaman 4 meter. dan rekor drove car ke Surabaya by myself sendirian with no any driving license. :)
+Saya sangat menyukai renang, meskipun saya memiliki kenangan buruk terkait aktivitas ini, khususnya hampir tenggelam saat berenang di pantai saat masih SMA dulu.
 
-aku suka renang. but i had kind of bad memory about it. almost tenggelam pas renang di pantai. semasa SMA dulu.
+Setiap kali saya melihat kolam dengan kedalaman 4 meter, saya merasa cemas. Pernah suatu saat, saya tetap dipaksa untuk berenang perlahan-lahan, yang mengganggu napas saya dan bahkan hampir tenggelam. Jantung saya berdegup kencang.
 
-tiap liat dalemnya kolam 4 meter langsung begidik. pernah saat tetap dipaksa pelan-pelan buat berenang, napas jadi keganggu. sempat kesendak. jantung menjadi panik.
+Namun, melalui proses penyesuaian yang berangsur-angsur, akhirnya saya berhasil. Saya mulai dengan berenang satu meter, tentu saja di kolam yang cukup dalam namun memiliki pegangan pengaman di sisi kolam. Kemudian, saya bertambah hingga 3 meter, 6 meter, dan akhirnya mencapai 12 meter.
 
-tapi proses penyesuaian semacam itu pelan2 akhirnya berhasil juga. renang satu meter dulu. tentunya di kolam yg lumayan dalam namun terdapat pegangan pengaman di sisi kolamnya. tambah 3 meter. lalu tambah 6 meter. lalu tambah 12 meter. akhirnya bisa.
+Rekor kedua, lebih pantas disebut sebagai tindakan yang agak nekat. Namun, saya menerapkan pola progres yang sama.
 
-rekor nomor dua lebih pantas disebut gambling. namun aku terapkan pola progres yang sama.
+Dalam situasi saat saya belum memiliki SIM, tentu saja saya tidak tahu seperti apa pola lalu lintas dan tindakan polisi di Surabaya. Ditambah lagi, saya punya pengalaman sebelumnya ketika pernah ditilang. 
 
-dalam posisi belum punya SIM, pastinya aku belum tau karakter pola lalulintas serta perpolisian di Surabaya. plus sedikit ada beban mental lantaran punya pengalaman ketilang juga.
+Jadi, menerima tawaran untuk pergi ke Surabaya adalah sedikit seperti berjudi. Tapi saya tidak ingin terlihat ceroboh. Saya harus bermain dengan hati-hati.
 
-soo ngeiyain tawaran buat pergi ke Surabaya adalah little bit gambling. but I gamau konyol. I have to play it carefully.
+Menjadi pengemudi di Surabaya sendirian, di kota sebesar Surabaya, sebanding dengan tantangan berenang di air dalam. Ini melibatkan aspek ketenangan mental dan kesiapan hati nurani.
 
-tantangan nyetir sendiri di kota seramai Surabaya kurang lebih sama dengan tatacara berenang di deep water. dari segi ketenangan mental dan kesiapan hati nurani.
+Saya harus minimal terbiasa dengan situasinya, sehingga perjalanan bisa berjalan lancar dan terasa alami seperti yang dilakukan oleh penduduk asli sana. Oleh karena itu, saya berlatih di sekitar Malang terlebih dahulu. Ini sudah saya lakukan beberapa bulan sebelumnya, jauh sebelum saya menerima tawaran tantangan sebenarnya.
 
-harus setidaknya terbiasa dengan situasi. agar nyetirnya bisa sehalus dan senatural orang sana asli. so aku berlatih muter di area Malang dulu. tentu sudah dicicil selama beberapa bulan sebelumnya. sebelum tiba tawaran challenge yang sebenarnya.
+Saya mulai dengan menjelajah wilayah Kabupaten Malang yang sepi polisi. Kemudian, saya berani menghadapi lalu lintas di Pasar Besar. Saya menguasai tol Malang dan beranjak menuju Malang Pasuruan.
 
-mulai dari Malang kabupaten yg sepi polisi dulu. lalu pasar besar. lalu toll Malang. lalu Malang Pasuruan.
+Akhirnya, saya berani mengemudi di Surabaya, tepat setelah sekali mencoba mengikuti seorang supir berpengalaman yang berkendara di Surabaya.
 
-lalu finally Surabaya. akhirnya berani nyetir dengan kemampuan dan keberanian diri sendiri. tepat setelah satu kali ikut supir lawas berkendara di Surabaya.
+Perjalanan di Surabaya juga dilakukan secara bertahap. Saya tidak langsung mencoba jalan raya yang ramai dengan polisi. Saya mulai dengan menggunakan jalan tol untuk membiasakan diri dengan atmosfer Surabaya, meskipun belum langsung melalui jalan umum.
 
-di Surabaya pun bertahap. tidak full via jalan umum yang ramai polisi. tapi mengandalkan jalan toll dulu. setidaknya membiasakan diri berada di atmosfir Surabaya. sekalipun tidak langsung via jalan raya.
+Barulah kemudian saya mencoba jalan lokal sedikit demi sedikit, dimulai dari area pinggiran kota. Baru setelah itu, saya menghadapi lalu lintas umum yang biasanya dihuni oleh polisi berpakaian seragam kelabu.
 
-lalu baru nyicip jalan lokal dikit-dikit. area pinggiran dulu. baru abis itu mulai masuk jalanan umum. yang biasanya ada polisi berkeliaran kek kura-kira berbaju kelabu.
+Sekarang, cukup itu saja. Saya merasa lelah.
 
-dah dulu. capek.
-
-> ditulis di pertengahan September 2021
+> Ditulis pertengahan September 2021

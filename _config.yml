@@ -22,21 +22,20 @@ authors:
     doy:
       name:           Doy
       site:           https://www.notdoyswebsite.lol
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpeg
       bio: >
                       My ancestors keep telling me about their secret recipe for eternal life: just keep writing. At all costs.
                       
                       Then here I am, barely keeping my [sanity] alive and managing to wander in my own [multidimensional madness].
-      links:
-        sanity:       https://github.com/cloned-doy
-        multidimensional madness:     https://twitter.com/dtkdym
-        email:        cloned-doy@gmail.com
-        twitter:      https://twitter.com/dtkdym
+      sanity:       https://github.com/cloned-doy
+      multidimensional madness:     https://twitter.com/dtkdym
+      email:        cloned-doy@gmail.com
+      twitter:      https://twitter.com/dtkdym
 
     nobody:
       name:           Nobody
       site:           https://www.nothing.com
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar22.jpg
       bio:            "Fictional figure, love to take a walk on the edge of horizon. Oh, here is more: love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/elonmusk
@@ -50,7 +49,7 @@ defaults:
     values:
       layout: post
       author: doy
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpeg
       
   # all pages
   - scope:

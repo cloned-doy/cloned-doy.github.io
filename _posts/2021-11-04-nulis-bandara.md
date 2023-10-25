@@ -6,39 +6,34 @@ categories: [bandara, kebiasaan,menulis]
 image: assets/images/pexels-photo-2434269.jpg
 featured: true
 ---
+Baru kali ini saya menulis lagi, setelah sekian lama jeda. Rasanya begitu memuaskan. Kalau tidak diberi kesempatan untuk menulis, walau pun sebatas apa adanya, ala kadarnya.
 
-baru kali ini saya nulis lagi. untuk sekian lama jeda. eman rasanya. kalau tidak disempatkan nulis. walau pun sebatas apa adanya. ala kadarnya. 
+Kali ini, saya ingin berbicara tentang Bandara Juanda, yang terletak jauh di sana dari Malang, sekitar dua jam perjalanan.
 
-ini tentang bandara. juanda. nun jauh dari malang sana. dua jam kirakira.
+Tiba-tiba saja saya merasa ingin mencoba melakukan aktivitas di bandara, setelah menyelesaikan kewajiban tentu saja.
 
-tibatiba aja pengen nyoba ngelakuin aktifitas di bandara. setelah selesai ngerjain kewajiban tentunya.
+Awalnya, saya mulai dengan membaca. Setelah itu, saya menghafal huruf Hanzi Cina, dan kemudian menulis fragmen peristiwa. Semuanya dimulai di parkiran bandara.
 
-awalnya membaca. abis itu menghafal hanzi cina. abis itu menulis fragmen peristiwa. awalnya dilakukan di parkiran bandara. 
+Saya merasa keren. Saya ingin mencoba metode ini di berbagai area, membaca di berbagai tempat, belajar di berbagai tempat, bahkan menulis di berbagai tempat dan suasana.
 
-keren rasanya. saya mau praktekkan metode memfamiliarkan akktifitas di segala area. membaca di multi area. belajar di multi area. bahkan menulis di multi area. dan suasana.
+Entah di bandara, entah saat sedang antre, entah saat berada di toko onderdil, atau bahkan saat duduk santai di beranda masjid dan musola.
 
-entah di bandara. entah pas lagi antre. entah pas di toko onderdil. entah pas lagi ongkang kaki di beranda masjid dan musola.
+Saya tiba di bandara sekitar pukul empat. Setelah itu, saya melepas Salsa. Kemudian, saya tidur sebentar. Pukul enam, saya mulai berpikir: apakah saya harus menikmati suasana terlebih dahulu atau mulai mewujudkan impian saya? Saya memilih untuk melakukan keduanya.
 
-jam empat sampai bandara sini. jam set 5 lepas si salsa. abis itu bobo bentar. jam set enam mulai mikir: baiknya saya nikmati dulu suasananya atau mulai eksekusi angan-angan saya? saya memilih melakukan dua-duanya.
+Pertama-tama, saya tidak tahu mengapa, tetapi saya ingin mencoba toilet di bandara. Saya ingin menilai manajemennya, mengevaluasi cara Jepang menilai pengelolaan suatu area.
 
-![](/assets/images/pexels-photo-3958210.jpg?w=683)
+"Saya akan melihat toiletnya. Kualitas toilet mencerminkan kualitas manajemennya."
 
-first of all entah kenapa saya pengen nyoba toilet bandara. saya pengen tahu manajemennya. ngepraktekkan cara jepang menilai pengelolaan suatu area.
+Saya harus ke tiga toilet, pikirku. Semuanya terlihat cukup baik dan bersih. Baik yang ada di tempat check-in, di parkiran, maupun di area perbelanjaan. Meskipun mungkin tidak pantas disebut ruko.
 
-“liat aja toiletnya. bagus buruk itulah cerminan manajemennya.”
+Mungkin karena ini adalah tempat transit, dengan banyak orang yang melewati sini dari berbagai wilayah, toiletnya tersebar di mana-mana. Dengan mudah kita dapat melihatnya.
 
-saya harus ke tiga toilet. pikirku. lumayan semua. bersihnya.
+Saya langsung menggunakan heuristik saya: ini pasti hasil adopsi, mereka mengadopsi manajemen dari tempat bagus di tempat lain di dunia.
 
-baik yang tempat check in. di parkiran. di area per rukoan. entah pantaskah disebut ruko.
+Berdasarkan kutipan Kishore Mahbubani: "Masalah apapun yang dihadapi Singapura, negara lain sudah pernah memecahkannya." Negara tiru-memirip, begitulah istilahnya.
 
-mungkin karena memang tempat transit. tempatnya banyak orang berlalulalang dari segala wilayah. toiletnya ada dimana-mana. cenderung dengan gampangnya kita lihat dg mata.
+Entah mengapa, belakangan ini, setiap kali pergi ke mana pun, saya sering bertanya-tanya. Saya sering mempertanyakan manajemen dan pengelolaan asetnya.
 
-langsung heuristik saya bekerja: pasti ini hasil adopsi. adopsi manajemen dari tempat bagus lainnya. somewhere di dunia.
+Entah saat saya pergi ke toko Cina, bengkel mobil, atau bahkan ke bandara, yang pertama kali saya pertanyakan adalah bagaimana sistem manajemennya.
 
-berdasar quotes Kishore Mahbubani: masalah apapun yang dihadapi singapura, sebuah negara lain sudah pernah memecahkannya. copycats country istilahnya.
-
-entah kenapa. akhir akhir ini tiap pergi ke tempat manapun suka bertanya-tanya. suka mempertanyakan manajemennya. pengelolaan asetnya.
-
-entah ke toko cina. entah ke bengkel mobil. entah ke bandara. yang pertama tak pertanyakan adalah bagaimana sistem kelolaannya.
-
-entahlah. maybe karena agak kepo saja.
+Entahlah, mungkin karena saya terlalu kepo saja.

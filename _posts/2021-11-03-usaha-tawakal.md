@@ -6,10 +6,10 @@ categories: [random, effort, tawakal]
 image: assets/images/pexels-photo-1100946.jpeg
 ---
 
-usaha tanpa ikhtiar itu mengingkari akidah. sedang ikhtiar tanpa usaha itu menghianati syariat. kita wajib percaya atas ketetapan-ketetapan Allah. tapi juga berkewajiban mengusahakan takdir terbaik yang akan kita terima.
+Usaha tanpa ikhtiar itu mengingkari akidah, sedangkan ikhtiar tanpa usaha itu menghianati syariat. Kita wajib percaya atas ketetapan-ketetapan Allah, tapi juga berkewajiban mengusahakan takdir terbaik yang akan kita terima.
 
-jangan campurkan antara kehendak allah dengan kewajiban untuk bertahan hidup. jangan kaburkan makna kadarullah, kehendak Allah, dan rahman rahimnya Allah.
+Jangan campurkan antara kehendak Allah dengan kewajiban untuk bertahan hidup. Jangan kaburkan makna kadarullah, kehendak Allah, dan rahman rahim-Nya.
 
-seperti hujan lebat misalnya. ia juga kehendak Allah. ketika seorang manusia memilih untuk berlindung dan berteduh, pantaskah ia disebut tidak menerima kehendak Allah?
+Seperti hujan lebat, misalnya. Ini juga adalah kehendak Allah. Ketika seorang manusia memilih untuk berlindung dan berteduh, pantaskah ia disebut tidak menerima kehendak Allah?
 
-_ngko disablek petir konn_
+_Ngko disablek petir konn_

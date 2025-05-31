@@ -1,48 +1,43 @@
 # Site
 name: Horseman
-description: This is a cave paintings site depicting Doy's modern life solitude.
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-# baseurl: '/mundana-theme-jekyll'
-# disqus: 'demowebsite's
-email: 'cloned-doy@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+description: Personal journey blog; being lost at the intersection of learning hanzi and understanding technology.
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
+email: "cloned-doy@gmail.com"
+mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-authors:
-    doy:
-      name:           Doy
-      site:           https://www.notdoyswebsite.lol
-      avatar:         assets/images/avatar1.jpeg
-      bio: >
-                      My ancestors keep telling me about their secret recipe for eternal life: just keep writing. At all costs.
-                      
-                      Then here I am, barely keeping my [sanity] alive and managing to wander in my own [multidimensional madness].
-      sanity:       https://github.com/cloned-doy
-      multidimensional madness:     https://twitter.com/dtkdym
-      email:        cloned-doy@gmail.com
-      twitter:      https://twitter.com/dtkdym
 
-    nobody:
-      name:           Nobody
-      site:           https://www.nothing.com
-      avatar:         assets/images/avatar22.jpg
-      bio:            "Fictional figure, love to take a walk on the edge of horizon. Oh, here is more: love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/elonmusk
- 
+authors:
+  doy:
+    name: Doy
+    site: https://heydoy.my.id
+    avatar: assets/images/avatar1.jpeg
+    bio: >
+      A (still struggling) language learner with a passion for technology. Discover how he got lost—and found—at the crossroads of language and tech.
+    sanity: https://github.com/cloned-doy
+    multidimensional madness: https://twitter.com/dtkdym
+    email: cloned-doy@gmail.com
+    twitter: https://twitter.com/dtkdym
+
+  # nobody:
+  #   name: Nobody
+  #   site: https://www.nothing.com
+  #   avatar: assets/images/avatar22.jpg
+  #   bio: "Fictional figure, love to take a walk on the edge of horizon. Oh, here is more: love to explore new ideas and write on my morning coffee!"
+  #   email: fakemail@gmail.com
+  #   twitter: https://twitter.com/elonmusk
+
 # Defaults
 defaults:
-
   # all posts
   - scope:
       path: "_posts"
@@ -50,13 +45,13 @@ defaults:
       layout: post
       author: doy
       avatar: assets/images/avatar1.jpeg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -67,7 +62,13 @@ paginate: 10
 # Set a default featured image size
 default_featured_image_size: "800x400"
 
-
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]

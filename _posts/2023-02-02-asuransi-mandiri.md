@@ -2,7 +2,7 @@
 title: Asuransi Mandiri
 date: Thu, 02 Feb 2023 01:54:23 +0000
 author: doy
-categories: [health, math]
+categories: [thought]
 image: assets/images/pexels-photo-699953.jpg
 ---
 

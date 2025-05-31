@@ -2,7 +2,7 @@
 title: Tesla Cina
 date: Sun, 07 Nov 2021 12:00:00 +0000
 author: doy
-categories: [Manufacturing, Sandy Munro, Tesla]
+categories: [thought]
 image: assets/images/image-1.jpg
 ---
 Videonya Sandy Munro sungguh menarik, ia adalah seorang ahli manufaktur mobil yang sering mengulas produksi Tesla dalam berbagai video di kanal YouTube-nya. Kali ini, ia memberikan ulasan mengenai bagaimana Tesla mengoptimalkan biaya dengan fokus pada spare part.

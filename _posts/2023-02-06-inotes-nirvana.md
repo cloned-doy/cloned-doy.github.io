@@ -2,7 +2,7 @@
 title: iNotes Nirvana
 date: Mon, 06 Feb 2023 03:43:00 +0000
 author: doy
-categories: [apple, note taking, random]
+categories: [learning]
 image: assets/images/pexels-photo-1193743.jpeg
 ---
 
@@ -16,7 +16,7 @@ I don't have to deal with tedious buttons or unnecessary widgets that would wast
 
 As an explorer who's willing to take risks to satisfy my own curiosity, I've experimented with various notetaking apps, such as Google Keep, Evernote, Simplenote, and even the Linux-based GNotes app. iNotes is my top pick due to its simplicity, usefulness, ease-of-use, cross-platform syncing, has auto backup features, and of course, it is free!
 
-No ads, no subs plan. iNotes definitely takes the cake. 
+No ads, no subs plan. iNotes definitely takes the cake.
 
 * * *
 

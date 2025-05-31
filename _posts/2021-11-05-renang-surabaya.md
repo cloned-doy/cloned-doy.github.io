@@ -2,7 +2,7 @@
 title: Renang Surabaya
 date: Fri, 05 Nov 2021 12:00:00 +0000
 author: doy
-categories: [challenge, Surabaya]
+categories: [thought]
 image: assets/images/pexels-photo-5238645.jpg
 ---
 Baru-baru ini, saya berhasil mencapai dua rekor baru: pertama, saya mampu renang 50 meter bolak-balik di kedalaman 4 meter. Kedua, saya melakukan perjalanan ke Surabaya dengan mengemudikan mobil sendirian tanpa memiliki surat izin mengemudi. :)
@@ -15,7 +15,7 @@ Namun, melalui proses penyesuaian yang berangsur-angsur, akhirnya saya berhasil.
 
 Rekor kedua, lebih pantas disebut sebagai tindakan yang agak nekat. Namun, saya menerapkan pola progres yang sama.
 
-Dalam situasi saat saya belum memiliki SIM, tentu saja saya tidak tahu seperti apa pola lalu lintas dan tindakan polisi di Surabaya. Ditambah lagi, saya punya pengalaman sebelumnya ketika pernah ditilang. 
+Dalam situasi saat saya belum memiliki SIM, tentu saja saya tidak tahu seperti apa pola lalu lintas dan tindakan polisi di Surabaya. Ditambah lagi, saya punya pengalaman sebelumnya ketika pernah ditilang.
 
 Jadi, menerima tawaran untuk pergi ke Surabaya adalah sedikit seperti berjudi. Tapi saya tidak ingin terlihat ceroboh. Saya harus bermain dengan hati-hati.
 

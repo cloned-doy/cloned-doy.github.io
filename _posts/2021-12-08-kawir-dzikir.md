@@ -2,11 +2,11 @@
 title: Kawir Dzikir
 date: Wed, 08 Dec 2021 09:57:00 +0000
 author: doy
-categories: [effort, privilege, transportasi]
+categories: [thought]
 image: assets/images/pexels-photo-7148468.jpg
 ---
 
-8 Desember 2021. trip malang-semarang kali kedua. rasarasanya bakal merubah stigma lama di 
+8 Desember 2021. trip malang-semarang kali kedua. rasarasanya bakal merubah stigma lama di
 
 8 Desember 2021. Trip Malang-Semarang kali kedua. Rasarasanya bakal merubah stigma lama di [tulisan sebelumnya](https://cloned-doy.github.io/mantra-transportasi/): Ajo kawir suka senggama.
 

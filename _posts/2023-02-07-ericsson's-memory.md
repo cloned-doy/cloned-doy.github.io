@@ -2,11 +2,11 @@
 title: Ericsson's Memory
 date: Tue, 07 Feb 2023 10:39:40 +0000
 author: doy
-categories: [learning, research, brain, memory]
+categories: [learning]
 image: assets/images/pexels-photo-13775522.jpeg
 ---
 
-I am learning how to type properly, utilizing all my ten fingers to type faster. 
+I am learning how to type properly, utilizing all my ten fingers to type faster.
 
 The goal is to type more naturally and automatically without looking at the keyboard. It seems difficult at first, but the more I practice, the more I realize that my fingers are able to 'dance' automatically.
 
@@ -50,6 +50,6 @@ I am enjoying my journey of learning how to type faster and correctly, but Profe
 
 * * *
 
-PS: As I finish writing this, I have just learned that Professor Anders Ericsson passed away in 2020. I strongly recommend that you read his papers to see how productive he was. 
+PS: As I finish writing this, I have just learned that Professor Anders Ericsson passed away in 2020. I strongly recommend that you read his papers to see how productive he was.
 
 May God bless him.

@@ -2,7 +2,7 @@
 title: Sunan Saudagar
 date: Thu, 03 Feb 2022 10:53:12 +0000
 author: doy
-categories: [bisnis, ikhtiar, paragmatis]
+categories: [thought]
 image: assets/images/pexels-photo-4905199.jpg
 ---
 

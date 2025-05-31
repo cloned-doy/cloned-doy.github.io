@@ -2,14 +2,14 @@
 title: Mencatat Laktat
 date: Sat, 06 Nov 2021 12:00:00 +0000
 author: doy
-categories: [effort, goals]
+categories: [thought]
 image: assets/images/runners-male-sport-run-54326.jpg
 
 ---
 
 Otot akan merasa lelah setelah digunakan dalam periode tertentu, terutama dalam aktivitas mekanis tertentu. Tentu saja, otot akan mengalami kerusakan, dan di sinilah ia mendapatkan kesempatan untuk pulih dan menjadi lebih kuat, berkat laktat. Laktat dapat dianggap sebagai semacam alarm yang berguna, mengukur sejauh mana ambang daya tahan kita.
 
-### 
+###
 
 Hal yang sedang menjadi pertimbangan saya akhir-akhir ini adalah apakah energi dan waktu yang saya miliki masih cukup untuk mencapai tujuan dan impian saya, yang pada dasarnya memiliki nilai tinggi, baik dalam hal uang maupun waktu. Saya tidak yakin sejauh mana tujuan-tujuan ini dapat diwujudkan dengan sumber daya yang saya miliki. Saya memiliki banyak impian tentang masa depan, dan pikiran saya mengatakan bahwa saya bisa mewujudkannya. Namun, jika melihat riwayat saya sejauh ini, yang masih dipenuhi dengan catatan merah, tujuan pribadi saya selalu mandek pada fase mandek deg, bukan sampai pada titik tuntas. Ini bukan berarti saya kehilangan semangat, tapi lebih seperti mencapai titik di mana semuanya berhenti.
 
@@ -46,7 +46,7 @@ Minat saya berubah dengan cepat dari waktu ke waktu, tetapi saya merasa mudah be
 
 Saya merasa lelah. Berdasarkan kelemahan saya yang kecil dan obat yang dapat menyembuhkannya, berkat pengalaman masa lalu, saya belajar bahwa saya memiliki lebih banyak kekuatan dan daya tahan ketika saya berada dalam tim, terutama dalam tim yang tepat.
 
-Apakah saya memerlukan tim? 
+Apakah saya memerlukan tim?
 
 _Ya, tentu saja._
 

@@ -2,7 +2,7 @@
 title: al-Musthafa
 date: Thu, 01 Dec 2022 07:35:43 +0000
 author: doy
-categories: [puisi, random]
+categories: [thought]
 image: assets/images/pexels-photo-4081675.jpeg
 tags: [featured]
 ---

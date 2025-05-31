@@ -2,7 +2,7 @@
 title: Nulis Bandara
 date: Thu, 04 Nov 2021 12:00:00 +0000
 author: doy
-categories: [bandara, kebiasaan,menulis]
+categories: [thought]
 image: assets/images/pexels-photo-2434269.jpg
 featured: true
 ---

@@ -2,7 +2,7 @@
 title: Pisah Algoritma
 date: Mon, 08 Nov 2021 12:00:00 +0000
 author: doy
-categories: [AI, musik, platform]
+categories: [thought]
 image: assets/images/pexels-photo-5417836.jpg
 ---
 Sepertinya kita telah mencapai titik di mana mengganti platform musik, seperti mengganti pasangan, menjadi sesuatu yang sulit dan melibatkan perasaan yang dalam. Saat ingin beralih dari satu platform musik ke yang lain, hal ini bisa menjadi seperti mengakhiri hubungan asmara yang sudah terjalin, dan prosesnya tidak selalu mudah.
@@ -15,9 +15,9 @@ Dan inilah munculnya masalah kecil yang dapat kita sebut sebagai "bingung algori
 
 Hal ini mirip dengan dalam hubungan percintaan. Mengapa kita harus mencoba yang baru jika kita sudah nyaman dengan yang ada? Apakah tidak lebih baik untuk mempertahankan hubungan yang sudah ada, seperti yang disarankan oleh para tetua?
 
-Tentu saja, "pacar" Spotify atau Apple Music juga tidak akan langsung tahu preferensi kita. Mereka juga memerlukan waktu untuk "PDKT" dengan kita, agar dapat memahami lagu-lagu yang kita sukai dan mana yang tidak. 
+Tentu saja, "pacar" Spotify atau Apple Music juga tidak akan langsung tahu preferensi kita. Mereka juga memerlukan waktu untuk "PDKT" dengan kita, agar dapat memahami lagu-lagu yang kita sukai dan mana yang tidak.
 
-Mengganti platform musik, seperti beralih ke Spotify, mungkin terasa sulit, meskipun Spotify menawarkan beragam fitur yang menarik seperti katalog lagu versi cover yang lebih lengkap, dan kemampuan untuk memutar musik serta mendengarkan podcast. 
+Mengganti platform musik, seperti beralih ke Spotify, mungkin terasa sulit, meskipun Spotify menawarkan beragam fitur yang menarik seperti katalog lagu versi cover yang lebih lengkap, dan kemampuan untuk memutar musik serta mendengarkan podcast.
 
 Bahkan, podcast populer seperti Joe Rogan sekarang eksklusif di Spotify. Ini mungkin menjadi daya tarik tambahan. Namun, podcast Joe Rogan tidak tersedia di podcast Apple, sehingga menjadi perasaan yang agak rumit.
 

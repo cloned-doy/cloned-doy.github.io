@@ -2,7 +2,7 @@
 title: Simple Enough
 date: Fri, 21 Oct 2022 02:35:39 +0000
 author: doy
-categories: [random, education]
+categories: [learning]
 image: assets/images/img_1695.jpg
 tags: [featured]
 ---

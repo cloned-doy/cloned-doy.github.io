@@ -1,6 +1,6 @@
 ---
 title: "Mandarin Dictionary"
-permalink: "/dictdoy"
+permalink: "/dictdoy.html"
 ---
 
 **Click [here]({{site.baseurl}}/dictdoy) to open the Dictionary!**
